@@ -1,4 +1,23 @@
+*{
+margin:0;
+padding:0;
+{
+.cabecalho{
+background-color:#424E61
+color:white
+display:flex
+justify-content:space-arround;
+align-items:centen;
+padding:24px 0;
+}
 body{
     backgroud-color:#383D58
 }
-.cabecalho-imagem{width 20%}
+.cabecalho-imagem{
+    width 20%;
+}
+.cabecalho-lista-item[
+display:inlinl-block;
+margin:0 16px;
+font-seze: 24px;
+}

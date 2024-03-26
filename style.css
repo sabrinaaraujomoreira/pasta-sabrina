@@ -21,3 +21,20 @@ display:inlinl-block;
 margin:0 16px;
 font-seze: 24px;
 }
+.escola-imagem{
+widht:25%
+}
+.escola{
+background-imagem:linear-gradient(#424E61#16CFF8)
+color:white
+display:flex
+justify-content:center
+align-items:center
+padding:24px 0;
+}
+.escola-div-conteudo{
+widht: 35%
+}
+.escola-titulo{
+padding: 24px 0;
+}
